@@ -24,7 +24,6 @@ int main(void) {
   }
 }
 
-
 float wallis_pi(int n) 
 {
 float ans=1.0;
@@ -37,5 +36,3 @@ ans= ans*(nr/(nr-1));
 
 return ans*2; 
 }
-      
-
